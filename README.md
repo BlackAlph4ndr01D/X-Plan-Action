@@ -36,7 +36,8 @@ Data yang disajikan di sini adalah **Data Terbuka (Publicly Available)**. Kami t
 > *"Jika mereka menggunakan algoritma untuk membunuh dan membungkam, maka kita akan menggunakan logika untuk membongkar dan menjelaskan."*
 
 ---
-
+# Documentation and Explanations have moved to the [Wiki] section."
+---
 ## 🤝 How to Support
 Jangan biarkan informasi ini berhenti di Anda. Pahami polanya, sebarkan penjelasannya.
 
